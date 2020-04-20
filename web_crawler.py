@@ -7,12 +7,7 @@ from nltk.corpus import stopwords
 import string
 
 
-# Neda Khakpour
-# CS 4395
-# Project 1, Part 1
-# Due Date: October 20, 2019
-
-# Build a web crawler to collect information on your chosen topic and store the information in a knowledge bank using
+# Objective: Build a web crawler to collect information on your chosen topic and store the information in a knowledge bank using
 # either Python objects (pickled) or a data base.
 
 # create web crawler function that starts with a url representing a topic and outputs a list of at least 15 relevant urls
